@@ -8,4 +8,4 @@ MYSELF
 yes lol bye
 aaaaaaaaaaaaaaaa
 what
-lol
+[lol]
